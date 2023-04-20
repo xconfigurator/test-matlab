@@ -1,3 +1,8 @@
+% https://www.bilibili.com/video/BV1Rx411S7Do/?spm_id_from=autoNext&vd_source=8bd7b24b38e3e12c558d839b352b32f4
+% 11:15 开始
+% https://www.bilibili.com/video/BV1Rx411S7SD/?spm_id_from=autoNext&vd_source=8bd7b24b38e3e12c558d839b352b32f4
+% 从视频开始就讲辗转相除法
+
 % while
 % 辗选相除法求最大公约数（欧几里得 古希腊）
 

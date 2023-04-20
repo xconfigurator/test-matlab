@@ -1,3 +1,6 @@
+% https://www.bilibili.com/video/BV1Rx411S7SD/?spm_id_from=autoNext&vd_source=8bd7b24b38e3e12c558d839b352b32f4
+% ÊÓÆµ09:50¿ªÊ¼
+
 % for
 s = 0;
 for i = 1 : 100

@@ -27,3 +27,7 @@ title('x^2 vs x^3');
 xlabel('x-axis');
 %y÷·±ÍÃ‚
 ylabel('y-axis');
+
+% –ﬁ Œ 20230420 add 
+axis equal;
+% xyplot;

@@ -22,3 +22,4 @@ title('sin(3x)');
 subplot(2, 2, 4);
 plot(x, y4);
 title('sin(4x)');
+%xyplot;
