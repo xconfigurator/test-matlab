@@ -23,6 +23,3 @@ elseif f == 68
 else
     fprintf('温度不高于68华氏度\n');
 end;
-
-
-
