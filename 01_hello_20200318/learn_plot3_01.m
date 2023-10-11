@@ -6,5 +6,5 @@ x = cos(theta);
 y = sin(theta);
 % plot(x, y);
 % axis equal;
-z = 0:300; % 注意z的点数应该与x,y的点数相对应
+z = 0:300; % 注意z的点数应该与x,y的点数相对应，301个点。
 plot3(x, y, z);
