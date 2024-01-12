@@ -16,12 +16,12 @@ A_x = fix(A)
 
 % 例2.3-6
 % xy同号的时候，mod与rem运行结果也相同。见a1, a4, a5, a8
-% 异号时mod取y的符号
+% mod(x, y)异号时mod取y的符号
 a1 = mod(8, 3)
 a2 = mod(-8, 3)
 a3 = mod(8, -3)
 a4 = mod(-8, -3)
-% 异号时rem取x的符号
+% rem(x, y)异号时rem取x的符号
 a5 = rem(8, 3)
 a6 = rem(-8, 3)
 a7 = rem(8, -3)
